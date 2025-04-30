@@ -103,7 +103,7 @@ We welcome contributions and suggestions to further enhance InQview. To contribu
 For questions, feedback, or further information, please reach out:
 
 - **GitHub:** [Rudra7009](https://github.com/Rudra7009)
-- **Email:** [RudraPratap](mailto:singh.rudrapratap8585@gmail.com)
+- **Email:** [Rudra Pratap](mailto:singh.rudrapratap8585@gmail.com)
 
 ## Link to website 
 - **Website:** [InQview](https://rudra7009.github.io/InQview/)
